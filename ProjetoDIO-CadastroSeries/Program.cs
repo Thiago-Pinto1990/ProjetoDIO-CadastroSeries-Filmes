@@ -298,8 +298,8 @@ namespace ProjetoDIO_CadastroSeries
 
             foreach(var serie in lista)
             {
-                var exluido = serie.RetornaExcluido();
-                Console.WriteLine($"#ID {serie.RetornaId()}: - {serie.RetornaTitulo()} - {exluido}");
+                var excluido = serie.RetornaExcluido();
+                Console.WriteLine($"#ID {serie.RetornaId()}: - {serie.RetornaTitulo()} - {(excluido ? "Excluído" : "")}");
             }
 
         }
@@ -316,7 +316,7 @@ namespace ProjetoDIO_CadastroSeries
             foreach(var filme in lista)
             {
                 var excluido = filme.RetornaExcluido();
-                Console.WriteLine($"#ID {filme.RetornaId()}: - {filme.RetornaTitulo()} - {excluido}");
+                Console.WriteLine($"#ID {filme.RetornaId()}: - {filme.RetornaTitulo()} - {(excluido ? "Excluído" : "")}");
             }
         }
 

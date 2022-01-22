@@ -5,3 +5,10 @@ C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries\ProjetoDIO-CadastroSeries
 C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries\ProjetoDIO-CadastroSeries\bin\Debug\ProjetoDIO-CadastroSeries.pdb
 C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.exe
 C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.pdb
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\bin\Debug\ProjetoDIO-CadastroSeries.exe.config
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\bin\Debug\ProjetoDIO-CadastroSeries.exe
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\bin\Debug\ProjetoDIO-CadastroSeries.pdb
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.exe
+C:\Users\thiag\Documents\DIO\ProjetoDIO-CadastroSeries-Filmes\ProjetoDIO-CadastroSeries\obj\Debug\ProjetoDIO-CadastroSeries.pdb
